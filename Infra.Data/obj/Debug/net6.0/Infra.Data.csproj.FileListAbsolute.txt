@@ -1,0 +1,15 @@
+C:\Projetos\Repositorios\ApiNet6Template\WebApiNet6Template\Infra.Data\bin\Debug\net6.0\Infra.Data.deps.json
+C:\Projetos\Repositorios\ApiNet6Template\WebApiNet6Template\Infra.Data\bin\Debug\net6.0\Infra.Data.dll
+C:\Projetos\Repositorios\ApiNet6Template\WebApiNet6Template\Infra.Data\bin\Debug\net6.0\Infra.Data.pdb
+C:\Projetos\Repositorios\ApiNet6Template\WebApiNet6Template\Infra.Data\bin\Debug\net6.0\Domain.dll
+C:\Projetos\Repositorios\ApiNet6Template\WebApiNet6Template\Infra.Data\bin\Debug\net6.0\Domain.pdb
+C:\Projetos\Repositorios\ApiNet6Template\WebApiNet6Template\Infra.Data\obj\Debug\net6.0\Infra.Data.csproj.AssemblyReference.cache
+C:\Projetos\Repositorios\ApiNet6Template\WebApiNet6Template\Infra.Data\obj\Debug\net6.0\Infra.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Repositorios\ApiNet6Template\WebApiNet6Template\Infra.Data\obj\Debug\net6.0\Infra.Data.AssemblyInfoInputs.cache
+C:\Projetos\Repositorios\ApiNet6Template\WebApiNet6Template\Infra.Data\obj\Debug\net6.0\Infra.Data.AssemblyInfo.cs
+C:\Projetos\Repositorios\ApiNet6Template\WebApiNet6Template\Infra.Data\obj\Debug\net6.0\Infra.Data.csproj.CoreCompileInputs.cache
+C:\Projetos\Repositorios\ApiNet6Template\WebApiNet6Template\Infra.Data\obj\Debug\net6.0\Infra.Data.csproj.CopyComplete
+C:\Projetos\Repositorios\ApiNet6Template\WebApiNet6Template\Infra.Data\obj\Debug\net6.0\Infra.Data.dll
+C:\Projetos\Repositorios\ApiNet6Template\WebApiNet6Template\Infra.Data\obj\Debug\net6.0\refint\Infra.Data.dll
+C:\Projetos\Repositorios\ApiNet6Template\WebApiNet6Template\Infra.Data\obj\Debug\net6.0\Infra.Data.pdb
+C:\Projetos\Repositorios\ApiNet6Template\WebApiNet6Template\Infra.Data\obj\Debug\net6.0\ref\Infra.Data.dll
